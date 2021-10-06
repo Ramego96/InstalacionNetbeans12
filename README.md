@@ -25,6 +25,7 @@
 
 #### Finalización de la instalación
 
+![Captura de pantalla_2021-10-06_15-00-21](https://user-images.githubusercontent.com/78496018/136218906-c5c20523-28fd-4b09-9519-4e17f4240a18.jpg)
 
 
 #### Repositorio de Github
